@@ -6,6 +6,7 @@
 - [Bufexplorer]()
 - [vim-airline]()
   - [vim-airline-themes]()
+- [coc.nvim]()
 - [vim-deus]()
 
 ## Комбинация клафиш
